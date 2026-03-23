@@ -1,6 +1,11 @@
 {
   "version": 2,
   "cleanUrls": true,
+  "functions": {
+    "python_service/flask_server.py": {
+      "includeFiles": "python_service/**"
+    }
+  },
   "builds": [
     {
       "src": "python_service/flask_server.py",
