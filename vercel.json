@@ -3,7 +3,7 @@
   "cleanUrls": true,
   "functions": {
     "python_service/flask_server.py": {
-      "runtime": "@vercel/python",
+      "runtime": "python3.9",
       "includeFiles": "python_service/**"
     }
   },
