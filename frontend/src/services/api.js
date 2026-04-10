@@ -1,5 +1,5 @@
-const JAVA_API_URL = '/api/sign-language';
-const FLASK_URL    = '/api/python';
+const JAVA_API_URL = 'https://signbridge-kh2j.onrender.com/sign-language';
+const FLASK_URL    = import.meta.env.VITE_FLASK_URL || '/api/python';
 
 export const checkHealth = async () => {
     try {

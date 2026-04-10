@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.Arrays;
 
 @RestController
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RequestMapping("/sign-language")
 public class SignLanguageController {
 

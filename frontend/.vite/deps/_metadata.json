@@ -1,0 +1,66 @@
+{
+  "hash": "ad0cb3f3",
+  "configHash": "6ee5be3c",
+  "lockfileHash": "f9b403d5",
+  "browserHash": "e7b09adc",
+  "optimized": {
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "7e44461b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f7483932",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "95a35d0d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "133a9efe",
+      "needsInterop": true
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "1862935b",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls.js": {
+      "src": "../../node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls__js.js",
+      "fileHash": "32c785fa",
+      "needsInterop": false
+    },
+    "three/examples/jsm/libs/meshopt_decoder.module.js": {
+      "src": "../../node_modules/three/examples/jsm/libs/meshopt_decoder.module.js",
+      "file": "three_examples_jsm_libs_meshopt_decoder__module__js.js",
+      "fileHash": "ed38dd1e",
+      "needsInterop": false
+    },
+    "three/examples/jsm/loaders/GLTFLoader.js": {
+      "src": "../../node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "file": "three_examples_jsm_loaders_GLTFLoader__js.js",
+      "fileHash": "ed82da13",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "react-DccYd3Hg": {
+      "file": "react-DccYd3Hg.js",
+      "isDynamicEntry": false
+    },
+    "three.module-B4wce2ys": {
+      "file": "three.module-B4wce2ys.js",
+      "isDynamicEntry": false
+    }
+  }
+}
