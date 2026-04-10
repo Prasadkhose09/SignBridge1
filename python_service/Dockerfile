@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install -y \
     libxext6 \
     libxrender-dev \
     libgles2-mesa \
+    libegl1 \
     && rm -rf /var/lib/apt/lists/*
 
 # Set the working directory
